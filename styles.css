@@ -4,7 +4,7 @@
 }
 
 :root {
-	background: radial-gradient(circle at center, chocolate, black, black);
+	background: radial-gradient(circle at center, purple, black, black);
 	font-family: Rubik, Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 	color: rgb(5, 17, 13);
 	font-size: 1.2em;
@@ -21,10 +21,10 @@ body {
 	text-align: center;
 }
 .container {
-	height: 400px;
-	width: 400px;
+	height: 360px;
+	width: 360px;
 	margin: auto;
-	background: radial-gradient(circle at center, rgb(158, 77, 20), chocolate, white);
+	background: radial-gradient(circle at center,pink, rgb(131, 67, 131));
 	border-radius: 50%;
 	padding: 2rem;
 	border: 1px hsl(192, 70%, 62%, 0.5) solid;
@@ -42,4 +42,12 @@ h1 {
 	padding: 0.5rem;
 	line-height: 1.4;
 	font-weight:500;
+	font-size: 2rem;
+}
+
+a{
+	font-size: larger;
+	color: magenta;
+	display:block;
+	font-weight: 600;
 }
