@@ -1,7 +1,7 @@
 {
   "name": "georgie-x.github.io",
   "version": "1.0.0",
-  "description": "Just a redirect page my developer portfolio: https://Georgiex.co.uk",
+  "description": "Just a redirect page for my developer portfolio: https://Georgiex.co.uk",
   "main": "index.js",
   "scripts": {
     "test": "jest"
