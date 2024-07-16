@@ -9,7 +9,7 @@
 	color: rgb(5, 17, 13);
 	font-size: 1.2em;
 	line-height: 1.6;
-	font-weight: 400
+	font-weight: 400;
 	/* text-shadow: 0px 1px white; */
 }
 body {
@@ -24,7 +24,7 @@ body {
 	height: 360px;
 	width: 360px;
 	margin: auto;
-	background: radial-gradient(circle at center,pink, rgb(131, 67, 131));
+	background: radial-gradient(circle at center, pink, rgb(131, 67, 131));
 	border-radius: 50%;
 	padding: 2rem;
 	border: 1px hsl(192, 70%, 62%, 0.5) solid;
@@ -41,13 +41,13 @@ p {
 h1 {
 	padding: 0.5rem;
 	line-height: 1.4;
-	font-weight:500;
+	font-weight: 500;
 	font-size: 2rem;
 }
 
-a{
+a {
 	font-size: larger;
 	color: magenta;
-	display:block;
+	display: block;
 	font-weight: 600;
 }

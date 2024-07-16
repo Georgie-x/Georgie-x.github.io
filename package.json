@@ -1,22 +1,22 @@
 {
-  "name": "georgie-x.github.io",
-  "version": "1.0.0",
-  "description": "Just a redirect page for my developer portfolio: https://Georgiex.co.uk",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Georgie-x/Georgie-x.github.io.git"
-  },
-  "keywords": [
-    "portfolio"
-  ],
-  "author": "Georgina Rimmer",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Georgie-x/Georgie-x.github.io/issues"
-  },
-  "homepage": "https://github.com/Georgie-x/Georgie-x.github.io#readme"
+	"name": "georgie-x.github.io",
+	"version": "1.0.0",
+	"description": "Just a redirect page for my developer portfolio: https://Georgiex.co.uk",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Georgie-x/Georgie-x.github.io.git"
+	},
+	"keywords": [
+		"portfolio"
+	],
+	"author": "Georgina Rimmer",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Georgie-x/Georgie-x.github.io/issues"
+	},
+	"homepage": "https://github.com/Georgie-x/Georgie-x.github.io#readme"
 }

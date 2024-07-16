@@ -1,1 +1,1 @@
-Just a redirect page my developer portfolio: https://Georgiex.co.uk
+Redirect page to my developer portfolio: https://Georgiex.co.uk
