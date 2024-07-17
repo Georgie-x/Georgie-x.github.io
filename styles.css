@@ -21,6 +21,7 @@ body {
 	text-align: center;
 }
 .container {
+	box-sizing: border-box;
 	height: 360px;
 	width: 360px;
 	margin: auto;
@@ -42,12 +43,12 @@ h1 {
 	padding: 0.5rem;
 	line-height: 1.4;
 	font-weight: 500;
-	font-size: 2rem;
+	font-size: 1.6rem;
 }
 
 a {
 	font-size: larger;
-	color: magenta;
+	color: rgb(196, 25, 196);
 	display: block;
 	font-weight: 600;
 }
